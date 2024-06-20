@@ -2,7 +2,6 @@
 - 🤔 I’m looking for help with Emotions
 - 💬 Ask me about Tech
 - 📫 How to reach me: github/parteekahlawat | linkedin/parteekahlawat
-- 😄 Pronouns: prateek
 <!--
 **parteekahlawat/parteekahlawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

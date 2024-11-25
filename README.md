@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🤔 I’m looking for help with Emotions
+- 🤔 Code helps me with Emotions
 - 💬 Ask me about Tech
 - 📫 How to reach me: github/parteekahlawat | linkedin/parteekahlawat
 <!--
